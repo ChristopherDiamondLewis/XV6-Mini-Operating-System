@@ -24,6 +24,7 @@ This is a Repo for a mini operating system that was used to help gain an underst
 
 # To start XV6 
 (a) cd xv6 ( if not already there )
+
 (b) make qemu-nox
 
 # To exit XV6
