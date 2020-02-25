@@ -4,6 +4,7 @@ This is a Repo for a mini operating system that was used to help gain an underst
 # Must run on Ubuntu - Using the below commands to initialize  the OS
 sudo apt-get update
 (b) sudo apt-get upgrade
+
 (c) sudo apt-get install git
 (d) sudo apt-get install g++
 (e) sudo apt-get install make
